@@ -1,102 +1,97 @@
-[<p align="center">
-  <img src="https://raw.githubusercontent.com/pedrohl45/yamada-music-bot-site/main/soviet_postpunk.jpg" width="100%" alt="Soviet Post-Punk Cityscape" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedrohl45/yamada-music-bot-site/main/soviet_postpunk.jpg" width="100%" alt="Soviet Post-Punk Banner" />
 </p>
 
-<div align="center">
+# ♱ Olá, eu sou o Pedro Henrique 🦇
 
-# ♱ pedro henrique ♱
-
-**desenvolvedor de software · automação backend · ecossistema linux**  
-<sub>*fatec são josé dos campos · sp*</sub>
-
-<br>
-
-> *« construindo software com lógica sólida, automação e código limpo. longe de hypes, imerso no terminal. »*
-
-<br>
-
-<!-- Badges Monocromáticas (Estética Dark Yamada) -->
 <p>
-  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DISCORD.PY-0d1117?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/BASH-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFMPEG-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=white" />
+  <strong>Desenvolvedor de Software · Backend & Automação · Fatec SJC</strong><br>
+  <em>« construindo sistemas com lógica sólida, automação e código limpo. longe de hypes, imerso no terminal. »</em>
 </p>
 
-</div>
-
-<hr>
-
-### ♱ sobre mim
-
-- 🎓 Graduando em **Desenvolvimento de Software** na Fatec São José dos Campos.
-- ⚙️ Foco em **backend, automação e arquitetura**: construo desde bots complexos com isolamento de contexto no Discord até scripts de terminal e pipelines de dados.
-- 🐧 Usuário e entusiasta do ecossistema **Linux** — automação via Bash, manipulação de streams com FFmpeg e scraping com yt-dlp.
-- 📐 Fixação por **Clean Code** e **OOP**: código desorganizado é dívida técnica acumulada. Se está no meu repositório, foi pensado para rodar de verdade.
-- 📻 Vibe sonora de fundo: Post-Punk, Darkwave, Sovietwave e noites de insônia no teclado.
+<p>
+  <a href="https://www.linkedin.com/in/pedrohl45/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/pedrohl45"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:pedrocabralleite@icloud.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-### ⛓️ arsenal técnico
+### 🥀 Sobre mim
 
-```
-+-------------------+-----------------------------------------------------------------+
-| backend & bots    | python 3.10+ · discord.py · apis rest · yt-dlp · web scraping   |
-| linux & terminal  | shell script / bash · automação de sistema · ambientes unix     |
-| banco de dados    | mysql (modelagem relacional, queries estruturadas)              |
-| manipulação áudio | ffmpeg (extração e streaming em tempo real)                     |
-| frontend suporte  | html5 · css3 · javascript vanilla (estética dark / spa)         |
-| engenharia        | clean code · oop · git/github workflow · padrões de projeto     |
-+-------------------+-----------------------------------------------------------------+
-```
+- 🎓 Graduando em **Desenvolvimento de Software** na **Fatec São José dos Campos (SP)**.
+- ⚙️ Focado no desenvolvimento **Backend, Automações e Ecossistema Linux**.
+- 🤖 Criador e mantenedor de bots avançados para Discord com arquitetura orientada a objetos (OOP), isolamento de contexto e integrações com banco de dados.
+- 📐 Praticante fervoroso de **Clean Code** e boas práticas de engenharia de software: código ilegível é dívida técnica.
+- 📻 Frequência musical de fundo: **Post-Punk, Darkwave, Sovietwave** e noites de insônia codando.
+- 🎯 Buscando oportunidades no mercado tech: **Estágio / Júnior** em desenvolvimento Backend e Automação.
 
 ---
 
-### 🕸️ projetos em destaque
-
-| | repositório | descrição arquitetural | tecnologias |
-|:---:|:---|:---|:---|
-| ♱ | **[yamada-music-bot](https://github.com/pedrohl45/yamada-music-bot)** | assistente musical no discord com isolamento de estado multi-servidor, extração flat de playlists e desconexão inteligente (smart disconnect). | `python` `discord.py` `ffmpeg` `yt-dlp` |
-| ♱ | **[tayama-fatec-bot](https://github.com/pedrohl45/tayama-fatec-bot)** | ecossistema completo para gestão acadêmica na fatec. integrado com mysql relacional, sistema de dependências (DPs), painel admin e web player darkwave. | `python` `discord.py` `mysql` `html/css/js` |
-| ♱ | **[estudos-linux](https://github.com/pedrohl45/estudos-linux)** | laboratório pessoal: scripts de automação, manipulação de arquivos, pipes e rotinas no terminal unix. | `bash` `shell script` `linux` |
-
----
-
-### 🎧 frequência sonora (darkwave / post-punk)
-
-> *"para noites de insônia, playlists enormes e alta performance."*
-
-| faixa / projeto | artista / referência | estilo |
-|:---|:---|:---|
-| 📻 **Судно (Sudno)** | Molchat Doma | Post-Punk / Sovietwave |
-| 📻 **Chernaya Polosa** | Ploho | Post-Punk Russo |
-| 📻 **Nightcall** | Kavinsky | Synthwave Noturno |
-| 📻 **Tayama FM** | [tayama-fatec-bot](https://github.com/pedrohl45/tayama-fatec-bot) | Bot com rádio Darkwave embutida |
-
----
-
-### 🐍 atividade no github
+### 📊 Estatísticas & Sequência
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake-dark.svg" />
-</picture>
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohl45/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrohl45)
-[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pedrocabralleite@icloud.com)
-
-<br><br>
-<sub>🖤 <i>less noise, more code · pedro henrique © 2026</i></sub>
-
+  <img src="https://streak-stats.demolab.com?user=pedrohl45&theme=dark&background=0d1117&border=30363d&stroke=8b0000&ring=8b0000&fire=8b0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888" alt="GitHub Streak Stats" />
 </div>
-](https://www.youtube.com/watch?v=DWFs6aqknqw)
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+#### 💻 Linguagens & Core
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell_Script-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py" />
+  <img src="https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/yt--dlp-0d1117?style=for-the-badge&logo=youtube&logoColor=white" alt="yt-dlp" />
+  <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
+</p>
+
+#### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### 🐧 Sistema & Ambiente
+<p>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 🕸️ Projetos em Destaque
+
+| Projeto | Descrição Arquitetural | Tecnologias |
+|:---|:---|:---|
+| ♱ **[yamada-music-bot](https://github.com/pedrohl45/yamada-music-bot)** | Assistente musical de alta fidelidade para Discord. Isolamento de estado em múltiplos servidores, extração flat de playlists e modo de desconexão inteligente (smart disconnect). | `Python` `Discord.py` `FFmpeg` `yt-dlp` |
+| ♱ **[tayama-fatec-bot](https://github.com/pedrohl45/tayama-fatec-bot)** | Ecossistema completo para gestão acadêmica. Banco relacional em MySQL, gerenciamento de DPs, painel administrativo e landing page com áudio player Darkwave contínuo. | `Python` `Discord.py` `MySQL` `HTML/CSS/JS` |
+| ♱ **[estudos-linux](https://github.com/pedrohl45/estudos-linux)** | Repositório de aprofundamento no ecossistema Unix/Linux: scripts de automação Bash, rotinas de terminal e experimentações. | `Bash` `Shell Script` `Linux` |
+
+---
+
+### 🐍 Snake de Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>🖤 <i>less noise, more code · pedro henrique © 2026</i></sub>
+</div>
