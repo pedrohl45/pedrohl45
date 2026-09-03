@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/3f/e1/0f/3fe10f1551eec6d8098b4aeb83222942.jpg" width="100%" alt="Night Moon Gothic Manga Banner" />
+  <img src="https://i.pinimg.com/originals/36/19/8b/36198b95d50aab4db748e61b2bf28a6d.gif" width="100%" alt="Night Moon Gothic Manga Banner" />
 </p>
 
 # ♱ Olá, eu sou o Pedro Henrique 🦇
