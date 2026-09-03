@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://raw.githubusercontent.com/pedrohl45/yamada-music-bot-site/main/soviet_postpunk.jpg" width="100%" alt="Soviet Post-Punk Cityscape" />
 </p>
 
@@ -99,3 +99,4 @@
 <sub>🖤 <i>less noise, more code · pedro henrique © 2026</i></sub>
 
 </div>
+](https://www.youtube.com/watch?v=DWFs6aqknqw)
