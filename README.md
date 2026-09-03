@@ -15,30 +15,30 @@
   <a href="mailto:pedrocabralleite@icloud.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center">♱ ──────── 🦇 ──────── ♱</p>
 
 ### 🥀 Sobre mim
 
-- 🎓 Graduando em **Desenvolvimento de Software** na **Fatec São José dos Campos (SP)**.
-- ⚙️ Focado no desenvolvimento **Backend, Automações e Ecossistema Linux**.
-- 🤖 Criador e mantenedor de bots avançados para Discord com arquitetura orientada a objetos (OOP), isolamento de contexto e integrações com banco de dados.
-- 📐 Praticante fervoroso de **Clean Code** e boas práticas de engenharia de software: código ilegível é dívida técnica.
-- 📻 Frequência musical de fundo: **Post-Punk, Darkwave, Sovietwave** e noites de insônia codando.
-- 🎯 Buscando oportunidades no mercado tech: **Estágio / Júnior** em desenvolvimento Backend e Automação.
+- ♱ Graduando em **Desenvolvimento de Software** na **Fatec São José dos Campos (SP)**.
+- ♱ Focado no desenvolvimento **Backend, Automações e Ecossistema Linux**.
+- ♱ Criador e mantenedor de bots avançados para Discord com arquitetura orientada a objetos (OOP), isolamento de contexto e integrações com banco de dados.
+- ♱ Praticante fervoroso de **Clean Code** e boas práticas de engenharia de software: código ilegível é dívida técnica acumulada.
+- ♱ Frequência musical de fundo: **Post-Punk, Darkwave, Sovietwave** e noites de insônia codando.
+- ♱ Buscando oportunidades no mercado tech: **Estágio / Júnior** em desenvolvimento Backend e Automação.
 
----
+<p align="center">♱ ──────── 🩸 ──────── ♱</p>
 
-### 📊 Estatísticas & Sequência
+### 🩸 Estatísticas & Sequência
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pedrohl45&theme=dark&background=0d1117&border=30363d&stroke=8b0000&ring=8b0000&fire=8b0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888" alt="GitHub Streak Stats" />
 </div>
 
----
+<p align="center">♱ ──────── ⛓️ ──────── ♱</p>
 
-### 🛠️ Tech Stack & Ferramentas
+### ⛓️ Arsenal Técnico
 
-#### 💻 Linguagens & Core
+#### ♱ Linguagens & Core
 <p>
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Shell_Script-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ⚙️ Backend & Frameworks
+#### ♱ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py" />
   <img src="https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
@@ -55,12 +55,12 @@
   <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
 </p>
 
-#### 🗄️ Banco de Dados
+#### ♱ Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-#### 🐧 Sistema & Ambiente
+#### ♱ Sistema & Ambiente
 <p>
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -68,9 +68,9 @@
   <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
----
+<p align="center">♱ ──────── 🕸️ ──────── ♱</p>
 
-### 🕸️ Projetos em Destaque
+### 🕸️ Ecossistema de Projetos
 
 | Projeto | Descrição Arquitetural | Tecnologias |
 |:---|:---|:---|
@@ -78,7 +78,7 @@
 | ♱ **[tayama-fatec-bot](https://github.com/pedrohl45/tayama-fatec-bot)** | Ecossistema completo para gestão acadêmica. Banco relacional em MySQL, gerenciamento de DPs, painel administrativo e landing page com áudio player Darkwave contínuo. | `Python` `Discord.py` `MySQL` `HTML/CSS/JS` |
 | ♱ **[estudos-linux](https://github.com/pedrohl45/estudos-linux)** | Repositório de aprofundamento no ecossistema Unix/Linux: scripts de automação Bash, rotinas de terminal e experimentações. | `Bash` `Shell Script` `Linux` |
 
----
+<p align="center">♱ ──────── 🐍 ──────── ♱</p>
 
 ### 🐍 Snake de Contribuições
 
@@ -90,7 +90,7 @@
   </picture>
 </div>
 
----
+<p align="center">♱ ──────── 🖤 ──────── ♱</p>
 
 <div align="center">
   <sub>🖤 <i>less noise, more code · pedro henrique © 2026</i></sub>
