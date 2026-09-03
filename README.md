@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedrohl45/yamada-music-bot-site/main/soviet_postpunk.jpg" width="100%" alt="Soviet Post-Punk Banner" />
+  <img src="https://i.pinimg.com/736x/3f/e1/0f/3fe10f1551eec6d8098b4aeb83222942.jpg" width="100%" alt="Night Moon Gothic Manga Banner" />
 </p>
 
 # ♱ Olá, eu sou o Pedro Henrique 🦇
