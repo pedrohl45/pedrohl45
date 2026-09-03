@@ -1,60 +1,86 @@
-﻿<div align="center">
-  <!-- Imagem de banner - sinta-se livre para trocar a URL por outra imagem gótica/anime dark do Pinterest -->
-  <img src="https://i.pinimg.com/736x/1f/f9/5a/1ff95a140f0cd7d67f139e731215b3b5.jpg" alt="Gothic Banner" width="400" style="border-radius: 10px;">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:4a0e0e&height=180&section=header&text=&fontSize=0" />
 
-  <br><br>
+<div align="center">
 
-  # 🦇 Pedro Henrique
-  
-  *Desenvolvimento de Software, Automação & Arquitetura no ecossistema Linux.*
-
-  ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Shell Script](https://img.shields.io/badge/SHELL_SCRIPT-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<hr>
-
-## 🥀 Quem sou eu?
-
-Sou estudante de **Desenvolvimento de Software** na Fatec (São José dos Campos - SP). Meu foco principal está em construir ferramentas, bots de alta performance e automações. Longe de hypes e soluções rasas, eu mergulho fundo no terminal, em scripts e no desenvolvimento backend para criar sistemas robustos que realmente funcionem.
+<a href="https://github.com/pedrohl45"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&repeat=false&width=500&height=50&lines=pedro+henrique." alt="nome" /></a>
 
 <br>
 
-## ⛓️ O que eu domino & estudo?
+<a href="https://github.com/pedrohl45"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=13&duration=3000&pause=800&color=555555&center=true&vCenter=true&repeat=true&width=480&height=30&lines=backend+%C2%B7+automa%C3%A7%C3%A3o+%C2%B7+linux+%C2%B7+bots+%C2%B7+clean+code;darkwave+%C2%B7+post-punk+%C2%B7+c%C3%B3digo+limpo+%C2%B7+terminal" alt="subtitulo" /></a>
 
-Minha stack principal e as tecnologias que venho aplicando diretamente nos meus repositórios e estudos:
+<br><br>
 
-- **Desenvolvimento Backend & Bots:** Automações em Python, Discord.py, APIs REST e Web Scraping.
-- **Ecossistema Linux & Shell:** Produtividade no terminal, automação de tarefas, criação de scripts em Bash e domínio de ambiente de desenvolvimento livre.
-- **Arquitetura & Código Limpo:** Foco em Clean Code, Padrões de Projeto (Orientação a Objetos) e versionamento eficiente usando Git e GitHub.
+<img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DISCORD.PY-0d1117?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/BASH-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/FFMPEG-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 
-<hr>
-
-## 🕸️ Projetos em Destaque
-
-Tudo o que tenho feito e aperfeiçoado até agora:
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[yamada-music-bot](https://github.com/pedrohl45/yamada-music-bot)** | Assistente musical desenvolvida do zero para alta performance e isolamento de contexto de áudio em múltiplos servidores. | Python Discord.py FFmpeg |
-| **[tayama-fatec-bot](https://github.com/pedrohl45/tayama-fatec-bot)** | Bot desenvolvido para automação, focando em otimizar e resolver demandas do ambiente acadêmico da Fatec. | Python APIs |
-| **[estudos-linux](https://github.com/pedrohl45/estudos-linux)** | Repositório focado em anotações, scripts de automação e domínio do ecossistema terminal Linux. | Shell Script Bash |
-
-*(Sempre estruturando novas ideias e refinando meu código...)*
-
-<hr>
-
-## 🩸 Onde me encontrar
-
-Se quiser conversar sobre código, arquitetura de software, Linux ou até bots de música, me chame:
-
-- 🗡️ **LinkedIn:** [in/pedrohl45](https://www.linkedin.com/in/pedrohl45/)
-- 🗡️ **Email:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-
-<hr>
-<div align="center">
-🖤 Less noise, more code.
 </div>
+
+<br>
+
+---
+
+### ♱ sobre
+
+dev de software — fatec sjc.
+
+construo ferramentas, bots e automações em python. meu foco tá em backend, terminal e no ecossistema linux. escrevo código limpo, organizado e que funciona de verdade — sem firula, sem over-engineering. se tá no meu github, roda.
+
+fixação por **clean code** e **OOP** porque código ilegível é crime contra a humanidade.
+
+---
+
+### ⛓️ stack
+
+```
+ backend & bots      python · discord.py · apis rest · web scraping · yt-dlp
+ web                 html5 · css3 · javascript
+ banco de dados      mysql
+ linux & shell       bash · automação · terminal · scripting
+ ferramentas         git · github · ffmpeg · venv · dotenv
+ princípios          clean code · oop · padrões de projeto · solid
+```
+
+---
+
+### 🕸️ projetos
+
+tudo que construí e mantenho até agora:
+
+| | repo | descrição | stack |
+|:---:|:---|:---|:---|
+| ♱ | **[yamada-music-bot](https://github.com/pedrohl45/yamada-music-bot)** | bot de música pro discord. alta performance, estado isolado por servidor, desconexão inteligente, extração flat de playlists. feita do zero. | `python` `discord.py` `ffmpeg` `yt-dlp` |
+| ♱ | **[tayama-fatec-bot](https://github.com/pedrohl45/tayama-fatec-bot)** | ecossistema completo — bot + landing page com audio player darkwave. gestão acadêmica com mysql, sistema de DPs, painel admin e a tayama fm. | `python` `discord.py` `mysql` `html` `css` `js` |
+| ♱ | **[estudos-linux](https://github.com/pedrohl45/estudos-linux)** | scripts, anotações e o caminho que percorro dentro do terminal e do ecossistema linux. | `shell` `bash` |
+
+---
+
+### 🩸 contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohl45/)
+[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:seu.email@exemplo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0e0e,50:1a0a2e,100:0d1117&height=120&section=footer" />
