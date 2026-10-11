@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=C82245&center=true&vCenter=true&width=560&lines=Backend+%26+Automa%C3%A7%C3%A3o;Python+%C2%B7+MySQL+%C2%B7+APIs+%C2%B7+Linux;Aberto+a+est%C3%A1gio+%2F+j%C3%BAnior" alt="Backend e Automação · Python · MySQL · APIs · Linux · Aberto a estágio / júnior" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=862cd1&center=true&vCenter=true&width=560&lines=Backend+%26+Automa%C3%A7%C3%A3o;Python+%C2%B7+MySQL+%C2%B7+APIs+%C2%B7+Linux;Aberto+a+est%C3%A1gio+%2F+j%C3%BAnior" alt="Backend e Automação · Python · MySQL · APIs · Linux · Aberto a estágio / júnior" />
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <a href="https://pedrohl45.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=githubpages&logoColor=C82245" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/pedrohl45/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=C82245" alt="LinkedIn" /></a>
-  <a href="mailto:pedrocabralleite@icloud.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=icloud&logoColor=C82245" alt="Email" /></a>
+  <a href="https://pedrohl45.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=githubpages&logoColor=862cd1" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/pedrohl45/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=862cd1" alt="LinkedIn" /></a>
+  <a href="mailto:pedrocabralleite@icloud.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=icloud&logoColor=862cd1" alt="Email" /></a>
 </p>
 
 <p align="center">♱ ──────── 🦇 ──────── ♱</p>
 
-### 🥀 Sobre mim
+### 🌙 Sobre mim
 
 - ♱ Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec São José dos Campos (SP)**, com foco em **backend, automação e Linux**.
 - ♱ Construo bots e sistemas em **Python** com orientação a objetos, estado isolado por contexto e banco relacional (**MySQL**).
@@ -48,43 +48,43 @@
 
 <sub>📚 Também por aqui: **[estudos-linux](https://github.com/pedrohl45/estudos-linux)** (20 exercícios de Shell Script e o setup em Arch Linux) · 🌐 **[portfólio](https://github.com/pedrohl45/pedrohl45.github.io)** (código do meu site)</sub>
 
-<p align="center">♱ ──────── 🩸 ──────── ♱</p>
+<p align="center">♱ ──────── 🔮 ──────── ♱</p>
 
-### 🩸 Estudando agora
+### 🔮 Estudando agora
 
 | Tema | Onde eu pratico | Status |
 |:---|:---|:---|
-| 🐍 Backend e automação em Python | `automacao-fatec` · `tayama-fatec-bot` | ![construindo](https://img.shields.io/badge/-construindo-8b0000?style=flat-square) |
-| 🧪 Testes e CI (pytest, ruff, GitHub Actions) | `automacao-fatec` | ![aplicando](https://img.shields.io/badge/-aplicando-8b0000?style=flat-square) |
+| 🐍 Backend e automação em Python | `automacao-fatec` · `tayama-fatec-bot` | ![construindo](https://img.shields.io/badge/-construindo-6c22a6?style=flat-square) |
+| 🧪 Testes e CI (pytest, ruff, GitHub Actions) | `automacao-fatec` | ![aplicando](https://img.shields.io/badge/-aplicando-6c22a6?style=flat-square) |
 | 🔐 Autenticação: do token no navegador para **MSAL** | `automacao-fatec` | ![próximo](https://img.shields.io/badge/-pr%C3%B3ximo-30363d?style=flat-square) |
-| 🗄️ Modelagem de banco de dados (MySQL) | `tayama-fatec-bot` | ![aprofundando](https://img.shields.io/badge/-aprofundando-8b0000?style=flat-square) |
-| 🐧 Shell Script e Arch Linux | `estudos-linux` | ![estudando](https://img.shields.io/badge/-estudando-8b0000?style=flat-square) |
-| 🧠 Algoritmos e lógica de programação | Fatec · DSM | ![cursando](https://img.shields.io/badge/-cursando-8b0000?style=flat-square) |
+| 🗄️ Modelagem de banco de dados (MySQL) | `tayama-fatec-bot` | ![aprofundando](https://img.shields.io/badge/-aprofundando-6c22a6?style=flat-square) |
+| 🐧 Shell Script e Arch Linux | `estudos-linux` | ![estudando](https://img.shields.io/badge/-estudando-6c22a6?style=flat-square) |
+| 🧠 Algoritmos e lógica de programação | Fatec · DSM | ![cursando](https://img.shields.io/badge/-cursando-6c22a6?style=flat-square) |
 
 ### ⛓️ Arsenal Técnico
 
 **Linguagens**<br>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=C82245" alt="Python" />
-<img src="https://img.shields.io/badge/Shell_Script-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=C82245" alt="Shell Script" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=C82245" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=C82245" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=C82245" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=862cd1" alt="Python" />
+<img src="https://img.shields.io/badge/Shell_Script-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=862cd1" alt="Shell Script" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=862cd1" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=862cd1" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=862cd1" alt="CSS3" />
 
 **Backend, bots e dados**<br>
-<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=C82245" alt="Flask" />
-<img src="https://img.shields.io/badge/Discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=C82245" alt="Discord.py" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=C82245" alt="MySQL" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=C82245" alt="Pandas" />
-<img src="https://img.shields.io/badge/Google_APIs-0d1117?style=for-the-badge&logo=googlecloud&logoColor=C82245" alt="Google APIs" />
-<img src="https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=C82245" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/yt--dlp-0d1117?style=for-the-badge&logo=youtube&logoColor=C82245" alt="yt-dlp" />
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=862cd1" alt="Flask" />
+<img src="https://img.shields.io/badge/Discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=862cd1" alt="Discord.py" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=862cd1" alt="MySQL" />
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=862cd1" alt="Pandas" />
+<img src="https://img.shields.io/badge/Google_APIs-0d1117?style=for-the-badge&logo=googlecloud&logoColor=862cd1" alt="Google APIs" />
+<img src="https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=862cd1" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/yt--dlp-0d1117?style=for-the-badge&logo=youtube&logoColor=862cd1" alt="yt-dlp" />
 
 **Sistema e ferramentas**<br>
-<img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=C82245" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=C82245" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=C82245" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=C82245" alt="Jira" />
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=C82245" alt="Vercel" />
+<img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=862cd1" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=862cd1" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=862cd1" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=862cd1" alt="Jira" />
+<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=862cd1" alt="Vercel" />
 
 <p align="center">♱ ──────── 🐍 ──────── ♱</p>
 
