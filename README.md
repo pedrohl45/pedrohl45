@@ -32,7 +32,7 @@
 - ♱ Na **ITNEX**, desenvolvo aplicações web (**React** e **TypeScript**), APIs em **Node.js** e **Python (FastAPI)**, integração com o ERP **Protheus (TOTVS)** e projetos de IoT com **ESP32** e **MQTT**, tudo em **Docker** com **PostgreSQL**.
 - ♱ Construo bots e sistemas em **Python** com orientação a objetos, estado isolado por contexto e banco relacional (**MySQL**).
 - ♱ Gosto de código legível: **Clean Code**, separação de responsabilidades e, cada vez mais, **testes e CI** desde o começo do projeto.
-- ♱ Vivo no terminal: uso **Arch Linux** no dia a dia e registro meus estudos de Shell Script em repositório próprio.
+- ♱ Vivo no terminal: **Ubuntu/Kubuntu** no trabalho, com as cargas pesadas rodando em máquinas **NVIDIA** via **SSH**, e **Arch Linux** em casa, onde registro meus estudos de Shell Script em repositório próprio.
 - ♱ Trilha sonora do código: **Post-Punk, Darkwave e Sovietwave**.
 - ♱ 🎯 **Estagiário de desenvolvimento na ITNEX**, aberto a conversar sobre Backend, Automação e IoT.
 
@@ -99,6 +99,7 @@
 <img src="https://img.shields.io/badge/yt--dlp-0d1117?style=for-the-badge&logo=youtube&logoColor=862cd1" alt="yt-dlp" />
 
 **Sistema e ferramentas**<br>
+<img src="https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=862cd1" alt="Ubuntu" />
 <img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=862cd1" alt="Arch Linux" />
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=862cd1" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=862cd1" alt="Git" />
