@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Night Moon Gothic Manga Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+    <img src="assets/banner-light.svg" width="100%" alt="Pedro Henrique · backend, automação e IoT" />
+  </picture>
 </p>
 
 <h1 align="center">♱ Pedro Henrique Cabral Leite 🦇</h1>
@@ -11,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=862cd1&center=true&vCenter=true&width=560&lines=Backend%2C+Automa%C3%A7%C3%A3o+%26+IoT;Python+%C2%B7+TypeScript+%C2%B7+MQTT+%C2%B7+Docker;Estagi%C3%A1rio+dev+na+ITNEX" alt="Backend, Automação e IoT · Python · TypeScript · MQTT · Docker · Estagiário dev na ITNEX" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=a87c6f&center=true&vCenter=true&width=560&lines=Backend%2C+Automa%C3%A7%C3%A3o+%26+IoT;Python+%C2%B7+TypeScript+%C2%B7+MQTT+%C2%B7+Docker;Estagi%C3%A1rio+dev+na+ITNEX" alt="Backend, Automação e IoT · Python · TypeScript · MQTT · Docker · Estagiário dev na ITNEX" />
 </p>
 
 <p align="center">
@@ -19,9 +23,9 @@
 </p>
 
 <p align="center">
-  <a href="https://pedrohl45.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=githubpages&logoColor=862cd1" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/pedrohl45/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=862cd1" alt="LinkedIn" /></a>
-  <a href="mailto:pedrocabralleite@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=862cd1" alt="Email" /></a>
+  <a href="https://pedrohl45.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-3b2a22?style=for-the-badge&logo=githubpages&logoColor=d39d90" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/pedrohl45/"><img src="https://img.shields.io/badge/LinkedIn-3b2a22?style=for-the-badge&logo=linkedin&logoColor=d39d90" alt="LinkedIn" /></a>
+  <a href="mailto:pedrocabralleite@gmail.com"><img src="https://img.shields.io/badge/Email-3b2a22?style=for-the-badge&logo=gmail&logoColor=d39d90" alt="Email" /></a>
 </p>
 
 <p align="center">♱ ──────── 🦇 ──────── ♱</p>
@@ -66,47 +70,47 @@
 
 | Tema | Onde eu pratico | Status |
 |:---|:---|:---|
-| 🐍 Backend e automação em Python (FastAPI) | ITNEX · `automacao-fatec` | ![construindo](https://img.shields.io/badge/-construindo-6c22a6?style=flat-square) |
-| ⚛️ TypeScript e React | ITNEX | ![aplicando](https://img.shields.io/badge/-aplicando-6c22a6?style=flat-square) |
-| 📡 MQTT, BLE e ESP32 (IoT) | ITNEX | ![aprofundando](https://img.shields.io/badge/-aprofundando-6c22a6?style=flat-square) |
-| 🐳 Docker e Docker Compose | ITNEX | ![aplicando](https://img.shields.io/badge/-aplicando-6c22a6?style=flat-square) |
-| 🧪 Testes e CI (pytest, ruff, GitHub Actions) | `automacao-fatec` | ![aplicando](https://img.shields.io/badge/-aplicando-6c22a6?style=flat-square) |
-| 🐧 Shell Script e Arch Linux | `estudos-linux` | ![estudando](https://img.shields.io/badge/-estudando-6c22a6?style=flat-square) |
+| 🐍 Backend e automação em Python (FastAPI) | ITNEX · `automacao-fatec` | ![construindo](https://img.shields.io/badge/-construindo-a87c6f?style=flat-square) |
+| ⚛️ TypeScript e React | ITNEX | ![aplicando](https://img.shields.io/badge/-aplicando-a87c6f?style=flat-square) |
+| 📡 MQTT, BLE e ESP32 (IoT) | ITNEX | ![aprofundando](https://img.shields.io/badge/-aprofundando-a87c6f?style=flat-square) |
+| 🐳 Docker e Docker Compose | ITNEX | ![aplicando](https://img.shields.io/badge/-aplicando-a87c6f?style=flat-square) |
+| 🧪 Testes e CI (pytest, ruff, GitHub Actions) | `automacao-fatec` | ![aplicando](https://img.shields.io/badge/-aplicando-a87c6f?style=flat-square) |
+| 🐧 Shell Script e Arch Linux | `estudos-linux` | ![estudando](https://img.shields.io/badge/-estudando-a87c6f?style=flat-square) |
 
 ### ⛓️ Arsenal Técnico
 
 **Linguagens**<br>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=862cd1" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=862cd1" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Shell_Script-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=862cd1" alt="Shell Script" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=862cd1" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=862cd1" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=862cd1" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-3b2a22?style=for-the-badge&logo=python&logoColor=d39d90" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3b2a22?style=for-the-badge&logo=typescript&logoColor=d39d90" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Shell_Script-3b2a22?style=for-the-badge&logo=gnu-bash&logoColor=d39d90" alt="Shell Script" />
+<img src="https://img.shields.io/badge/JavaScript-3b2a22?style=for-the-badge&logo=javascript&logoColor=d39d90" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-3b2a22?style=for-the-badge&logo=html5&logoColor=d39d90" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-3b2a22?style=for-the-badge&logo=css3&logoColor=d39d90" alt="CSS3" />
 
 **Backend, bots e dados**<br>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=862cd1" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=862cd1" alt="Flask" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=862cd1" alt="Node.js" />
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=862cd1" alt="React" />
-<img src="https://img.shields.io/badge/Discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=862cd1" alt="Discord.py" />
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=862cd1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=862cd1" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=862cd1" alt="SQLite" />
-<img src="https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=862cd1" alt="MQTT" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=862cd1" alt="Pandas" />
-<img src="https://img.shields.io/badge/Google_APIs-0d1117?style=for-the-badge&logo=googlecloud&logoColor=862cd1" alt="Google APIs" />
-<img src="https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=862cd1" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/yt--dlp-0d1117?style=for-the-badge&logo=youtube&logoColor=862cd1" alt="yt-dlp" />
+<img src="https://img.shields.io/badge/FastAPI-3b2a22?style=for-the-badge&logo=fastapi&logoColor=d39d90" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-3b2a22?style=for-the-badge&logo=flask&logoColor=d39d90" alt="Flask" />
+<img src="https://img.shields.io/badge/Node.js-3b2a22?style=for-the-badge&logo=nodedotjs&logoColor=d39d90" alt="Node.js" />
+<img src="https://img.shields.io/badge/React-3b2a22?style=for-the-badge&logo=react&logoColor=d39d90" alt="React" />
+<img src="https://img.shields.io/badge/Discord.py-3b2a22?style=for-the-badge&logo=discord&logoColor=d39d90" alt="Discord.py" />
+<img src="https://img.shields.io/badge/PostgreSQL-3b2a22?style=for-the-badge&logo=postgresql&logoColor=d39d90" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-3b2a22?style=for-the-badge&logo=mysql&logoColor=d39d90" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-3b2a22?style=for-the-badge&logo=sqlite&logoColor=d39d90" alt="SQLite" />
+<img src="https://img.shields.io/badge/MQTT-3b2a22?style=for-the-badge&logo=mqtt&logoColor=d39d90" alt="MQTT" />
+<img src="https://img.shields.io/badge/Pandas-3b2a22?style=for-the-badge&logo=pandas&logoColor=d39d90" alt="Pandas" />
+<img src="https://img.shields.io/badge/Google_APIs-3b2a22?style=for-the-badge&logo=googlecloud&logoColor=d39d90" alt="Google APIs" />
+<img src="https://img.shields.io/badge/FFmpeg-3b2a22?style=for-the-badge&logo=ffmpeg&logoColor=d39d90" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/yt--dlp-3b2a22?style=for-the-badge&logo=youtube&logoColor=d39d90" alt="yt-dlp" />
 
 **Sistema e ferramentas**<br>
-<img src="https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=862cd1" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=862cd1" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=862cd1" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=862cd1" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=862cd1" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=862cd1" alt="Jira" />
-<img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=862cd1" alt="Obsidian" />
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=862cd1" alt="Vercel" />
+<img src="https://img.shields.io/badge/Ubuntu-3b2a22?style=for-the-badge&logo=ubuntu&logoColor=d39d90" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Arch_Linux-3b2a22?style=for-the-badge&logo=archlinux&logoColor=d39d90" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Docker-3b2a22?style=for-the-badge&logo=docker&logoColor=d39d90" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-3b2a22?style=for-the-badge&logo=git&logoColor=d39d90" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-3b2a22?style=for-the-badge&logo=githubactions&logoColor=d39d90" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Jira-3b2a22?style=for-the-badge&logo=jira&logoColor=d39d90" alt="Jira" />
+<img src="https://img.shields.io/badge/Obsidian-3b2a22?style=for-the-badge&logo=obsidian&logoColor=d39d90" alt="Obsidian" />
+<img src="https://img.shields.io/badge/Vercel-3b2a22?style=for-the-badge&logo=vercel&logoColor=d39d90" alt="Vercel" />
 
 <p align="center">♱ ──────── 🐍 ──────── ♱</p>
 
