@@ -1,11 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-    <img src="assets/banner-light.svg" width="100%" alt="Pedro Henrique · backend, automação e IoT" />
-  </picture>
-</p>
-
 <h1 align="center">♱ Pedro Henrique Cabral Leite 🦇</h1>
 
 <p align="center">
@@ -112,15 +104,7 @@
 <img src="https://img.shields.io/badge/Obsidian-3b2a22?style=for-the-badge&logo=obsidian&logoColor=d39d90" alt="Obsidian" />
 <img src="https://img.shields.io/badge/Vercel-3b2a22?style=for-the-badge&logo=vercel&logoColor=d39d90" alt="Vercel" />
 
-<p align="center">♱ ──────── 🐍 ──────── ♱</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake.svg" />
-    <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/pedrohl45/pedrohl45/output/github-snake-dark.svg" width="90%" />
-  </picture>
-</div>
+<p align="center">♱ ──────── 🌙 ──────── ♱</p>
 
 <div align="center">
   <sub>🖤 <i>less noise, more code · pedro henrique © 2026</i></sub>
