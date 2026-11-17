@@ -26,7 +26,7 @@
 
 - ♱ Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec São José dos Campos (SP)**, com foco em **backend, integração de APIs e DevSecOps**.
 - ♱ Na **ITNEX**, desenvolvo aplicações web (**React** e **TypeScript**), APIs em **Node.js** e **Python (FastAPI)**, integração com o ERP **Protheus (TOTVS)** e projetos de IoT com **ESP32** e **MQTT**, tudo em **Docker** com **PostgreSQL**.
-- ♱ No pipeline, cuido da segurança: scan de segredos (**Gitleaks**), de vulnerabilidades (**Trivy**) e de código (**Semgrep**), com imagens Docker rodando sem root.
+- ♱ Trabalho com **DevOps e DevSecOps**: pipelines de CI/CD e Docker, com segurança no pipeline (scan de segredos com **Gitleaks**, de vulnerabilidades com **Trivy** e de código com **Semgrep**) e imagens rodando sem root.
 - ♱ Construo bots e sistemas em **Python** com orientação a objetos, estado isolado por contexto e banco relacional (**MySQL**).
 - ♱ Gosto de código legível: **Clean Code**, separação de responsabilidades e, cada vez mais, **testes e CI** desde o começo do projeto.
 - ♱ Vivo no terminal: **Ubuntu/Kubuntu** no trabalho, com as cargas pesadas rodando em máquinas **NVIDIA** via **SSH**, e **Arch Linux** em casa, onde registro meus estudos de Shell Script em repositório próprio.
