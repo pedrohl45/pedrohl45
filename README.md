@@ -76,6 +76,10 @@ Projeto integrado do 1º semestre (Fatec): sistema para analistas de crédito qu
 
 <p align="center">♱ ──────── 🕯️ ──────── ♱</p>
 
+**[devsecops-pipeline-template](https://github.com/pedrohl45/devsecops-pipeline-template)**<br>
+Versão pública e genérica do pipeline que montei no estágio: CI com **Gitleaks**, **Trivy** e **Semgrep** que reprovam o build, imagem escaneada igual à publicada e release por tag sem rebuild. Reescrita do zero, com app de exemplo em FastAPI.<br>
+`GitHub Actions` `Docker` `Gitleaks` `Trivy` `Semgrep`
+
 ### 🕯️ Estudando agora
 
 | Tema | Onde eu pratico | Status |
