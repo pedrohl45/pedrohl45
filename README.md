@@ -31,7 +31,7 @@
 - ♱ Gosto de código legível: **Clean Code**, separação de responsabilidades e, cada vez mais, **testes e CI** desde o começo do projeto.
 - ♱ Vivo no terminal: **Ubuntu/Kubuntu** no trabalho, com as cargas pesadas rodando em máquinas **NVIDIA** via **SSH**, e **Arch Linux** em casa, onde registro meus estudos de Shell Script em repositório próprio.
 - ♱ Trilha sonora do código: **Post-Punk, Darkwave e Sovietwave**.
-- ♱ **Estagiário de desenvolvimento na ITNEX**, aberto a conversar sobre Backend e DevSecOps.
+- ♱ **Estagiário de desenvolvimento na ITNEX**, com foco em Backend e DevSecOps.
 
 ### 💼 Experiência
 
